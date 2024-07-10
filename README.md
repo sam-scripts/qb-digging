@@ -5,7 +5,8 @@ This scripts allows players to dig in the designated area to find configurable i
 If you have an inqueries or have encountered any issues please message me on discord :) sam7870
 ## Dependencies
 
-[QB Core](https://github.com/qbcore-framework/qb-target](https://github.com/qbcore-framework/qb-core)
+[QB Target]([https://github.com/qbcore-framework/qb-target](https://github.com/qbcore-framework))
+
 
 ## Config
 ```
