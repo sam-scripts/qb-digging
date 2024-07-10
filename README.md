@@ -26,6 +26,6 @@ Config.Rewards = {
 # QB Core Item
 Place this inside your QB Core shared file to add the shovel to the server!
 
-```shovel                  = { name = 'shovel', label = 'Shovel', weight = 0, type = 'item', image = 'shovel.png', unique = false, useable = true, shouldClose = true, description = 'Shovel for digging' },```
+```shovel  = { name = 'shovel', label = 'Shovel', weight = 0, type = 'item', image = 'shovel.png', unique = false, useable = true, shouldClose = true, description = 'Shovel for digging' },```
 
 
